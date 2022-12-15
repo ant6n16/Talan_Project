@@ -1,9 +1,11 @@
 <h1 align = center>antdelga Talan Project Quickathone</h1>
 
-This repository contains the archives for the project developed during the Quickathone promoved by 42 Málaga Fundación Telefónica and Talan. 
-In this case we have to develop an idea, software or web application to a sustainable business of tire recycling. My idea aims to train an Artificial
+This repository contains the archives for the project developed during the Quickathone promoved by 42 Málaga Fundación Telefónica and Talan. <br /> <br />
+* In this case we have to develop an idea, software or web application to a sustainable business of tire recycling. My idea aims to train an Artificial
 Neural Network in order to detect the tires in perfect state or those that are damaged according to a texture recognition. Two databases have been shuffled and three classes are present:
-Well-conserved tire, Damaged Tire or No-Present Tire. The databases link are: https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition and
+Well-conserved tire, Damaged Tire or No-Present Tire. <br /> 
+
+The databases link are: https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition and
 https://www.researchgate.net/publication/345398868_Design_of_Tire_Damage_Image_Recognition_System_Based_on_Deep_Learning .
 
 <h2 align = center>
