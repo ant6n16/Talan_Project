@@ -5,7 +5,7 @@ This repository contains the archives for the project developed during the Quick
 Neural Network in order to detect the tires in perfect state or those that are damaged according to a texture recognition. Two databases have been shuffled and three classes are present:
 Well-conserved tire, Damaged Tire or No-Present Tire. <br /> 
 
-The databases link are: https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition and
+The databases links: https://www.kaggle.com/datasets/jehanbhathena/tire-texture-image-recognition and
 https://www.researchgate.net/publication/345398868_Design_of_Tire_Damage_Image_Recognition_System_Based_on_Deep_Learning .
 
 <h2 align = center>
